@@ -5,7 +5,7 @@ Simulation of Mendel's four classical experiments based on the Monte Carlo metho
 
 > 这个程序是17年写的，当时甚至不知道蒙特卡洛这个词，主要是受了生物教材`03版高中生物必修二`里一个的模拟实验（见下图）的启发写的。
 
-<img src="http:..." width = "100" height = "100" div align=center />![reference_image.png](https://github.com/IceBrecker/MendelExperimentsSimulation/blob/main/reference_image.png)
+<img src="http:..." width = "100" height = "100" div align=center />![](https://github.com/IceBrecker/MendelExperimentsSimulation/blob/main/reference_image.png)
 
 按提示选择要模拟的实验`1`: `一对相对性状的杂交实验`、 `2`: `一对相对性状的测交实验`、`3`: `两对相对性状的杂交实验`、`4`: `两对相对性状的杂交实验`，并按提示输入子代数目即可。
 
